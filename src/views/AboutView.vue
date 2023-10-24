@@ -1,7 +1,3 @@
-<template>
-  <ChildComp />
-</template>
+<template>// eslint-disable-next-line</template>
 
-<script setup>
-import ChildComp from "./tutorials/ChildComp.vue";
-</script>
+<script setup></script>
